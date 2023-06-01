@@ -1,2 +1,6 @@
 #!/bin/bash
-Creting a new branch is quikc $$$ simple.
+<<<<<<< HEAD
+Creting a new branch is quikc and simple.
+=======
+Creting a new branch is quikc and simple.
+>>>>>>> featurel
