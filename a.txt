@@ -1,2 +1,2 @@
 #!/bin/bash
-Creting a new branch is quikc.
+Creting a new branch is quikc $$$ simple.
